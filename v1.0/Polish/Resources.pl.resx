@@ -248,7 +248,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>START</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Pomż tłumaczyć Lively.</value>
+    <value>Pomóż tłumaczyć Lively.</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
     <value>Zainstaluj</value>
